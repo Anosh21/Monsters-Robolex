@@ -1,27 +1,26 @@
-# Monsters-Robolex
-https://confident-minsky-6f39a8.netlify.app/
-<img src="./images/logo.sample.png" alt="Logo of the project" align="right">
 
-# Name of the project &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
 
-A brief description of your project, what it is used for.
+<img src="https://camo.githubusercontent.com/4abd19d665f1b15358793b758f2d6a64f6cef59d1d92287d57fb32bab218015f/68747470733a2f2f692e696d6775722e636f6d2f6a6d4b477036632e6a7067" alt="Logo of the project" align="right">
+
+# # Monsters-Robolex &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://confident-minsky-6f39a8.netlify.app/) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+> RoboFriends
+
+It's a fun platform to create monster character and design personalized monster.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
+Node latest version
+tachyons for styling
+Clone the repo and follow the commands!
 ```shell
-commands here
+npm install & npm start
 ```
-
-Here you should say what actually happens when you execute the code above.
+Local host 3000 sarts and project will run.
 
 ## Developing
 
 ### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+React and vanilla JS
 
 ### Prerequisites
 What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
