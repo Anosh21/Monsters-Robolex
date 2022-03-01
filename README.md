@@ -17,6 +17,7 @@ npm install & npm start
 ```
 Local host 3000 sarts and project will run.
 
+<!--
 ## Developing
 
 ### Built With
@@ -99,3 +100,4 @@ Documents your database design and schemas, relations etc...
 ## Licensing
 
 State what the license is and how to find the text version of the license.
+-->
